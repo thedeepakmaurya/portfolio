@@ -11,3 +11,7 @@ var typeData = new Typed(".role", {
     backSpeed: 80,
     backDelay: 1000,
   });
+
+  function resume(link) {
+    window.location.href = link;
+  }

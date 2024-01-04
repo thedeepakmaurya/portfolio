@@ -290,3 +290,15 @@
       position: fixed;
       bottom: 0;
   }
+
+@media only screen and (max-width: 767px) {
+
+      .navlink a {
+          display: none;
+      }
+
+      .navlink span {
+          display: block;
+      }
+
+  }

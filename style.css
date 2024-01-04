@@ -47,10 +47,14 @@
       display: none;
   }
 
+  .slide-menu {
+      display: none;
+  }
+
+
   a {
       text-decoration: none;
       color: inherit;
-      position: inherit;
   }
 
 
@@ -187,10 +191,6 @@
   }
 
   .skill-disc {
-        padding-top: 20px;
-    }
-
-  .skill-disc {
       font-size: 20px;
       padding-top: 10px;
   }
@@ -317,6 +317,36 @@
           display: block;
       }
 
+      .slide-menu {
+          display: flex;
+          flex-direction: column;
+          position: fixed;
+          top: 0;
+          left: -250px;
+          /* Initially off-screen */
+          width: 250px;
+          height: 100%;
+          background-color: var(--bright-purple);
+          opacity: 95%;
+          transition: 0.3s;
+          /* Add a transition effect */
+          z-index: 101;
+      }
+
+      .slide-menu a {
+          padding: 10px 0 5px 20px;
+          font-size: 30px;
+          color: #fff;
+          background-color: var(--bright-purple);
+          text-decoration: none;
+          transition: 0.3s;
+          /* Add a transition effect */
+      }
+
+      .slide-menu a:hover {
+          color: var(--dark-purple);
+      }
+
       .hero {
           padding: 20px 15px 0 15px;
           height: 400px;
@@ -361,8 +391,12 @@
           text-align: center;
       }
 
-      .tojustify{
-        text-align: justify;
+      .skill-disc {
+          padding-top: 20px;
+      }
+
+      .tojustify {
+          text-align: justify;
       }
 
       .skill-container {
@@ -393,17 +427,17 @@
       }
 
       .footer {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        gap: 10px;
-        align-items: center;
-        width: 100vw;
-        height: 100px;
-        background-color: var(--dark-purple);
-        color: var(--white-);
-        position: unset;
-    }
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          gap: 10px;
+          align-items: center;
+          width: 100vw;
+          height: 100px;
+          background-color: var(--dark-purple);
+          color: var(--white-);
+          position: unset;
+      }
 
   }
 

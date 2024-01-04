@@ -15,3 +15,22 @@ var typeData = new Typed(".role", {
   function resume(link) {
     window.location.href = link;
   }
+
+
+  function scroll(id) {
+    const section = document.getElementById(id);
+  
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth' });
+    }
+  }
+
+
+  function toggleMenu() {
+    var slideMenu = document.getElementById('slideMenu');
+    if (slideMenu.style.left === '0px') {
+      slideMenu.style.left = '-250px';
+    } else {
+      slideMenu.style.left = '0px';
+    }
+  }

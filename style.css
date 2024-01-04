@@ -4,6 +4,7 @@
       margin: 0;
       box-sizing: border-box;
       font-family: 'VT323', monospace;
+      background-color: var(--dark-purple);
   }
 
   :root {
@@ -42,9 +43,14 @@
       margin: 10px;
   }
 
+  .navlink span {
+      display: none;
+  }
+
   a {
       text-decoration: none;
       color: inherit;
+      position: inherit;
   }
 
 
@@ -291,7 +297,13 @@
       bottom: 0;
   }
 
-@media only screen and (max-width: 767px) {
+
+  @media only screen and (max-width: 767px) {
+
+      .navbar {
+          padding: 0 10px 0 10px;
+
+      }
 
       .navlink a {
           display: none;
@@ -301,4 +313,96 @@
           display: block;
       }
 
+      .hero {
+          padding: 20px 10px 0 10px;
+          height: 400px;
+      }
+
+      .about {
+          padding: 0 10px 0 10px;
+      }
+
+      .cert-head {
+          height: auto;
+          align-items: center;
+      }
+
+
+      .cert-head p {
+          font-size: xxx-large;
+          color: var(--white-);
+          padding: 50px 0 30px 0;
+      }
+
+      .certifications {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          gap: 30px;
+      }
+
+      .skill {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          gap: 30px;
+          height: auto;
+          padding: 50px 10px 0 10px;
+
+      }
+
+      .tech-intro {
+          width: auto;
+          text-align: center;
+      }
+
+      .skill-container {
+          padding-top: 25px;
+          display: flex;
+          flex-wrap: wrap;
+          width: auto;
+          position: relative;
+          gap: 2rem;
+          justify-content: center;
+      }
+
+      .contact {
+          display: flex;
+          flex-direction: column;
+          gap: 30px;
+          padding: 50px 10px 150px 10px;
+          height: auto;
+      }
+
+      .contact-info {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          font-size: xx-large;
+          gap: 5px;
+      }
+
   }
+
+
+  /* @media only screen and (min-width: 768px) and (max-width: 1023px) {
+      .navlink a {
+          display: none;
+      }
+
+      .navlink span {
+          display: block;
+      }
+  } */
+
+  /* @media only screen and (min-width: 1024px) {
+      .navlink a {
+          display: none;
+      }
+
+      .navlink span {
+          display: block;
+      }
+  } */

@@ -357,6 +357,10 @@
           text-align: center;
       }
 
+      .tojustify{
+        text-align: justify;
+      }
+
       .skill-container {
           padding-top: 25px;
           display: flex;

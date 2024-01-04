@@ -52,7 +52,7 @@ a{
        flex-direction: column;
        justify-content: center;
        align-items: center;
-       height: 100vh;
+       height: 500px;
        background-color: var(--dark-purple);
        padding: 0 100px 0 100px;
 }
@@ -61,6 +61,7 @@ a{
     font-size: 35px;
     color: var(--bright-purple);
     font-weight: 500;
+    text-align: center;
 }
 
 .role{
@@ -72,6 +73,7 @@ a{
     font-size: 45px;
     line-height: 45px;
     color: var(--white-);
+    text-align: center;
 }
 
 .hero-description{
@@ -92,7 +94,7 @@ a{
     transition: all 1s;
     font-weight: 500;
     z-index: 1;
-    border: 2px solid var(--bright-purple);
+    border: 2px dashed var(--bright-purple);
     padding: 8px 20px;
 }
 
@@ -102,17 +104,91 @@ a{
 }
 
 .btn:hover{
-    border: 2px solid var(--white-);
+    border: 2px dashed var(--white-);
     color:  var(--white-);
 }
 
-
-.footer{
+.contact{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 200px;
+    padding: 0 100px 0 100px;
+    height: 500px;
+    background-color: var(--dark-purple);
+    color: var(--white-);
+}
+
+.heading{
+    font-size: xxx-large;
+}
+
+.contact-container{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-size: xx-large;
+    margin-top: 10px;
+}
+
+p box-icon{
+    padding: 5px 0 0 0;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.form-container input{
+    width: 350px;
+    height: 40px;
+    border: 2px dashed var(--bright-purple);
+    background-color: var(--dark-purple);
+    color: var(--white-);
+    outline: none;
+    padding: 10px;
+    font-size: large;
+}
+
+.textarea{
+    width: 350px;
+    height: 60px;
+    resize: none;
+    border: 2px dashed var(--bright-purple);
+    background-color: var(--dark-purple);
+    outline: none;
+    color: var(--white-);
+    padding: 10px;
+    font-size: large;
+}
+
+.submit{
+    background-color: var(--dark-purple);
+    border: 2px dashed var(--bright-purple);
+    color: var(--bright-purple);
+    font-size: x-large;
+    padding: 5px 145px 5px 145px;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+
+.submit:hover{
+    color: var(--white-);
+    border: 2px dashed var(--white-);
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
     width: 100vw;
-    height: 50px;
+    height: 100px;
     background-color: var(--dark-purple);
     color: var(--white-);
     position: fixed;

@@ -34,3 +34,21 @@ var typeData = new Typed(".role", {
       slideMenu.style.left = '0px';
     }
   }
+
+document.addEventListener("DOMContentLoaded", function() {
+    var scrollTopButton = document.getElementById("scrollTopButton");
+  
+    window.onscroll = function() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        scrollTopButton.style.display = "block";
+      } else {
+        scrollTopButton.style.display = "none";
+      }
+    };
+  });
+  
+  function scrollToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+  

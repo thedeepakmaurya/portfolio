@@ -38,7 +38,6 @@
 
   .logo {
       font-size: xx-large;
-      text-shadow: 5px 5px var(--bright-purple);
   }
 
   .navlink a {

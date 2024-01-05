@@ -352,6 +352,11 @@
           height: 400px;
       }
 
+    .img-container img {
+        height: 250px;
+        width: 250px;
+    }
+
       .about {
           padding: 0 15px 0 15px;
       }
@@ -408,6 +413,11 @@
           gap: 2rem;
           justify-content: center;
       }
+
+    .skills-logo {
+        width: 50px;
+        transition: all 0.5s;
+    }
 
       .contact {
           display: flex;

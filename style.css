@@ -288,8 +288,7 @@ p box-icon {
     bottom: 50px;
     right: 20px;
     padding: 10px;
-    background-color: var(--bright-purple);
-    color: var(--dark-purple);
+    color: var(--bright-purple);
     border: none;
     border-radius: 50%;
     cursor: pointer;

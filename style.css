@@ -282,6 +282,18 @@ p box-icon {
     border: 2px dashed var(--white-);
 }
 
+#scrollTopButton {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    color: var(--bright-purple);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
 .footer {
     display: flex;
     flex-direction: column;

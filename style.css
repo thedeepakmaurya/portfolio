@@ -306,7 +306,7 @@
   @media only screen and (max-width: 767px) {
 
       .navbar {
-          padding: 0 15px 0 15px;
+          padding: 0 20px 0 20px;
 
       }
 
@@ -350,7 +350,7 @@
       }
 
       .hero {
-          padding: 20px 15px 0 15px;
+          padding: 20px 20px 0 20px;
           height: 400px;
       }
 
@@ -360,7 +360,7 @@
       }
 
       .about {
-          padding: 0 15px 0 15px;
+          padding: 0 20px 0 20px;
       }
 
       .cert-head {
@@ -414,7 +414,7 @@
           justify-content: center;
           gap: 30px;
           height: auto;
-          padding: 50px 15px 0 15px;
+          padding: 50px 20px 0 20px;
 
       }
 
@@ -452,7 +452,7 @@
           display: flex;
           flex-direction: column;
           gap: 30px;
-          padding: 50px 15px 50px 15px;
+          padding: 50px 20px 50px 20px;
           height: auto;
       }
 
@@ -483,24 +483,3 @@
       }
 
   }
-
-
-  /* @media only screen and (min-width: 768px) and (max-width: 1023px) {
-      .navlink a {
-          display: none;
-      }
-
-      .navlink span {
-          display: block;
-      }
-  } */
-
-  /* @media only screen and (min-width: 1024px) {
-      .navlink a {
-          display: none;
-      }
-
-      .navlink span {
-          display: block;
-      }
-  } */

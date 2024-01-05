@@ -199,7 +199,8 @@ a {
 }
 
 .skills-logo {
-    width: 90px;
+    padding-top: 20px;
+    width: 110px;
     transition: all 0.5s;
 }
 

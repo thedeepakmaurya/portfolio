@@ -285,10 +285,11 @@ p box-icon {
 #scrollTopButton {
     display: none;
     position: fixed;
-    bottom: 20px;
+    bottom: 50px;
     right: 20px;
     padding: 10px;
-    color: var(--bright-purple);
+    background-color: var(--bright-purple);
+    color: var(--dark-purple);
     border: none;
     border-radius: 50%;
     cursor: pointer;

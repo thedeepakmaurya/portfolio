@@ -8,6 +8,10 @@
         background-color: var(--dark-purple);
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
 :root {
     --dark-purple: #000000;
     --bright-purple: #4E4FEB;
@@ -59,7 +63,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 520px;
+    height: 100vh;
     padding: 0 100px 0 100px;
 }
 
@@ -155,10 +159,11 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 20px;
 }
 
 .certifications img {
-    width: 300px;
+    width: 280px;
     height: 350px;
     border-radius: 10px;
     box-shadow: 0 4px 8px var(--bright-purple);

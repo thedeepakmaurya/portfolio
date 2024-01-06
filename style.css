@@ -206,7 +206,7 @@ a {
 
 .skills-logo {
     padding-top: 20px;
-    height: auto;
+    height: 100px;
     width: 100px;
     transition: all 0.5s;
 }
@@ -457,7 +457,7 @@ p box-icon {
     }
 
     .skills-logo {
-        height: 50px;
+        height: auto;
         width: 50px;
         transition: all 0.5s;
     }

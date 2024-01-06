@@ -5,7 +5,8 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Ysabeau Office', sans-serif;
-        background-color: var(--dark-purple);
+    background-color: var(--dark-purple);
+    scroll-behavior: smooth;
 }
 
 body::-webkit-scrollbar {

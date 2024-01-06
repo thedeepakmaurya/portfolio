@@ -274,6 +274,11 @@ p box-icon {
     font-size: large;
 }
 
+input::placeholder,textarea::placeholder {
+    color: var(--white-);
+    font-size: 16px;
+  }
+
 .submit {
     background-color: var(--bg-button);
     color: var(--white-);

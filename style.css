@@ -336,7 +336,7 @@ p box-icon {
         left: -250px;
         width: 250px;
         height: 100%;
-        background-color: var(--bright-purple);
+        background-color: var(--dark-purple);
         opacity: 95%;
         transition: 0.3s;
         z-index: 101;
@@ -346,13 +346,13 @@ p box-icon {
         padding: 10px 0 5px 20px;
         font-size: large;
         color: #fff;
-        background-color: var(--bright-purple);
+        background-color: var(--dark-purple);
         text-decoration: none;
         transition: 0.3s;
     }
 
     .slide-menu a:hover {
-        color: var(--dark-purple);
+        color: var(--bright-purple);
     }
 
     .hero {

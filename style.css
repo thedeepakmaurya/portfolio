@@ -205,8 +205,7 @@ a {
 }
 
 .skills-logo {
-    padding-top: 20px;
-    height: 120px;
+    height: 100px;
     width: 100px;
     transition: all 0.5s;
 }

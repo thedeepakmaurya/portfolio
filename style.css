@@ -99,26 +99,27 @@ a {
 
 .btn {
     display: flex;
+    justify-content: center;
     align-items: center;
     margin-top: 1rem;
-    color: var(--bright-purple);
+    background-color: var(--bg-button);
+    color: var(--white-);
     font-size: 25px;
     cursor: pointer;
     transition: all 1s;
     font-weight: 500;
     z-index: 1;
-    border: 2px dashed var(--bright-purple);
     padding: 8px 20px;
 }
 
 .btn span {
     margin-left: 8px;
     padding-top: 5px;
+    background-color: var(--bg-button);
 }
 
 .btn:hover {
-    border: 2px dashed var(--white-);
-    color: var(--white-);
+    color: var(--bright-purple);
 }
 
 .about {

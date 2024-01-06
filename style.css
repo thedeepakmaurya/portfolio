@@ -253,6 +253,7 @@ p box-icon {
 .form-container input {
     width: 350px;
     height: 40px;
+    border: none;
     background-color: var(--bg-button);
     color: var(--white-);
     outline: none;
@@ -264,6 +265,7 @@ p box-icon {
     width: 350px;
     height: 60px;
     resize: none;
+    border: none;
     background-color: var(--bg-button);
     outline: none;
     color: var(--white-);
@@ -277,6 +279,7 @@ p box-icon {
     font-size: x-large;
     padding: 5px 0 5px 0;
     width: 350px;
+    border: none;
     cursor: pointer;
     transition: all 1s ease;
 }

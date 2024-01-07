@@ -303,7 +303,8 @@ input::placeholder,textarea::placeholder {
   }
 
 .social a{
-    margin: 5px;
+    display: flex;
+    gap: 5px;
 }
 
 .footer {

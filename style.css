@@ -238,6 +238,15 @@ a {
     padding: 25px 0 0 0;
 }
 
+.contacts {
+    display: flex;
+    align-items: center;
+  }
+
+  .contacts span{
+    margin-top: 10px 5px 0 0 ;
+ }
+
 .form-container {
     display: flex;
     justify-content: center;
@@ -305,11 +314,6 @@ input::placeholder,textarea::placeholder {
 
 .social a{
     padding: 0 5px 0 0;
-}
-
-.contacts span{
-    padding: 10px 5px 0 0;
-    color: var(--bright-purple);
 }
 
 .footer {

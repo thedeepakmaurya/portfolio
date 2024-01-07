@@ -491,7 +491,7 @@ input::placeholder,textarea::placeholder {
 
     .social a{
     display: flex;
-        flex-direction: row;
+        flex-direction: column;
     gap: 5px;
 }
 

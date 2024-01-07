@@ -302,6 +302,10 @@ input::placeholder,textarea::placeholder {
     cursor: pointer;
   }
 
+.social a{
+    margin: 5px;
+}
+
 .footer {
     display: flex;
     flex-direction: column;

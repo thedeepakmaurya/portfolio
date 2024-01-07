@@ -229,6 +229,7 @@ a {
     flex-direction: column;
     justify-content: center;
     font-size: x-large;
+    margin-bottom: 50px;
     gap: 5px;
 }
 
@@ -304,6 +305,11 @@ input::placeholder,textarea::placeholder {
 
 .social a{
     padding: 0 5px 0 0;
+}
+
+.contacts span{
+    padding: 5px 10px 0 0;
+    color: var(--bright-purple);
 }
 
 .footer {
@@ -481,6 +487,7 @@ input::placeholder,textarea::placeholder {
         align-items: center;
         justify-content: center;
         font-size: x-large;
+        margin-bottom: 0px;
         gap: 5px;
     }
 

@@ -304,6 +304,7 @@ input::placeholder,textarea::placeholder {
 
 .social a{
     display: flex;
+    flex-direction: row;
     gap: 5px;
 }
 
@@ -488,12 +489,6 @@ input::placeholder,textarea::placeholder {
     .heading {
         font-size: xx-large;
     }
-
-    .social a{
-    display: flex;
-        flex-direction: column;
-    gap: 5px;
-}
 
     .footer {
         display: flex;

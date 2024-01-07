@@ -308,7 +308,7 @@ input::placeholder,textarea::placeholder {
 }
 
 .contacts span{
-    padding: 5px 10px 0 0;
+    padding: 10px 5px 0 0;
     color: var(--bright-purple);
 }
 

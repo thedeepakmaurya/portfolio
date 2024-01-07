@@ -489,6 +489,12 @@ input::placeholder,textarea::placeholder {
         font-size: xx-large;
     }
 
+    .social a{
+    display: flex;
+        flex-direction: row;
+    gap: 5px;
+}
+
     .footer {
         display: flex;
         flex-direction: column;

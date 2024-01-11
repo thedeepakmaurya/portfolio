@@ -572,6 +572,10 @@ input::placeholder,textarea::placeholder {
         gap: 25px;
     }
 
+    .header p {
+    font-size: large;
+    }
+
     .contact {
         display: flex;
         flex-direction: column;

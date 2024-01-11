@@ -507,8 +507,7 @@ input::placeholder,textarea::placeholder {
     .certifications img {
         width: 280px;
         height: 330px;
-        flex: 0 0 80%;
-        /* Ensure each image takes the full width of the container */
+        flex: 0 0 80%;
         scroll-snap-align: initial;
         border-radius: none;
         box-shadow: none;
@@ -571,6 +570,10 @@ input::placeholder,textarea::placeholder {
         display: flex;
         flex-direction: column;
         gap: 25px;
+    }
+
+    .head {
+        font-size: large;
     }
 
     .contact {

@@ -507,7 +507,8 @@ input::placeholder,textarea::placeholder {
     .certifications img {
         width: 280px;
         height: 330px;
-        flex: 0 0 80%;
+        flex: 0 0 80%;
+
         scroll-snap-align: initial;
         border-radius: none;
         box-shadow: none;
@@ -572,6 +573,10 @@ input::placeholder,textarea::placeholder {
         gap: 25px;
     }
 
+    .project-img img {
+        box-shadow: none;
+    }
+
     .header p {
     font-size: xx-large;
     }
@@ -614,14 +619,5 @@ input::placeholder,textarea::placeholder {
         padding: 0 20px 0 20px;
         text-align: center;
     }
-
+    
 }
-
-
-/* @media only screen and (min-width: 768px) and (max-width: 1023px) {
-      
-  } */
-
-/* @media only screen and (min-width: 1024px) {
-      
-  } */

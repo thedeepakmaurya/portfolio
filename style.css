@@ -269,7 +269,7 @@ a {
     border-radius: 10px;
     background: transparent;
     background-image: linear-gradient( rgba(0,0,0,0.4), rgba(254, 231, 21) );
-    transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease;
     opacity: 0;
 }
 

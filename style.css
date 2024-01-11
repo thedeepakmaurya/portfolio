@@ -219,7 +219,6 @@ a {
 .project {
     display: flex;
     flex-direction: column;
-    width: 100vw;
     height: auto;
     padding: 100px 100px 0 100px;
 }
@@ -232,11 +231,10 @@ a {
 
 .project-section {
     display: flex;
-    justify-content: center;
+    align-items: center;
 }
 
-.p1,
-.p2 {
+.p1, .p2 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -268,12 +266,12 @@ a {
     cursor: pointer;
     border-radius: 10px;
     background: transparent;
-    background-image: linear-gradient( rgba(0,0,0,0.4), rgba(254, 231, 21) );
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(254, 231, 21));
     transition: all 0.5s ease;
     opacity: 0;
 }
 
-.project-desc:hover{
+.project-desc:hover {
     opacity: 1;
 }
 
@@ -568,7 +566,7 @@ input::placeholder,textarea::placeholder {
         align-items: center;
         padding: 50px 20px 0 20px;
     }
-    
+
     .project-section {
         display: flex;
         flex-direction: column;

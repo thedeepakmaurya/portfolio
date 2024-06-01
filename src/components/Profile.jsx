@@ -7,6 +7,8 @@ const Profile = () => {
     const { profile } = useContext(userContext);
 
     return (
+        <>
+        <h1 className='sm:flex sm:items-center sm:justify-center sm:p-5 sm:font-bold sm:text-rose-400 xl:hidden'>Site is under development</h1>
         <div className='flex gap-5'>
             <div>
                 <img className='w-60 sm:w-[500px] rounded-full border border-white shadow-black shadow-md' alt='profile-img' src={logo} />
@@ -22,6 +24,7 @@ const Profile = () => {
                 </div>
             </div>
         </div>
+        </>
     )
 }
 

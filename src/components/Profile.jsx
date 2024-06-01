@@ -9,7 +9,7 @@ const Profile = () => {
     return (
         <div className='flex gap-5'>
             <div>
-                <img className='w-60 rounded-full border border-white shadow-black shadow-md' alt='profile-img' src={logo} />
+                <img className='w-60 sm:w-[500px] rounded-full border border-white shadow-black shadow-md' alt='profile-img' src={logo} />
             </div>
             <div>
                 <a href='/'><h1 className='font-bold text-md'>{profile.name}</h1></a>

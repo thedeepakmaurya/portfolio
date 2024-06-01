@@ -1,4 +1,5 @@
 import CareerContainer from "./CareerContainer";
+import CertificationContainer from "./CertificationContainer";
 import EducationContainer from "./EducationContainer";
 import Footer from "./Footer";
 import Profile from "./Profile";
@@ -9,6 +10,7 @@ function App() {
         <Profile/>
         <CareerContainer/>
         <EducationContainer/>
+        <CertificationContainer/>
         <Footer/>
     </div>
   );

@@ -1,24 +1,24 @@
 import React from 'react'
-import Career from './Career'
 import { INFO } from '../utils/config'
+import Certification from './Certification';
 
-const CareerContainer = () => {
+const CertificationContainer = () => {
 
-  const { career } = INFO;
+  const { certification } = INFO;
 
   return (
-    <div className='mt-10 '>
+    <div className='mt-14 '>
       <div className='flex items-center justify-between pl-2 pr-2'>
-        <h1 className='text-sm' ><i className='bx bxs-briefcase align-middle'></i> Career</h1>
+        <h1 className='text-sm' ><i className='bx bxs-notepad align-middle'></i> Certification</h1>
         <p className='text-xs '><a href='https://linkedin.com/in/thedeepakmaurya'>View all </a><i className='bx bx-link-external align-middle'></i></p>
       </div>
       <div className='flex flex-wrap '>
         {
-          career.map(job => <Career key={job.id} career={job} />)
+          certification.map(cer => <Certification key={cer.id} certification={cer} />)
         }
       </div>
     </div>
   )
 }
 
-export default CareerContainer;
+export default CertificationContainer;

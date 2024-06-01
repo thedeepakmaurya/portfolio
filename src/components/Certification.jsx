@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Education = ({ education }) => {
+const Certificaion = ({ certification }) => {
 
-    const { institute, qualification, marks, img } = education;
+    const { institute, qualification, img } = certification;
 
     return (
         <div className='w-1/2 flex gap-2 mt-8'>
@@ -11,10 +11,10 @@ const Education = ({ education }) => {
             </div>
             <div className=''>
                 <h1 className='text-md font-medium'>{institute}</h1>
-                <p className='text-sm pb-1'>{qualification}<span className='text-sm'> {marks}</span></p>
+                <p className='text-sm pb-1'>{qualification}</p>
             </div>
         </div>
     )
 }
 
-export default Education
+export default Certificaion

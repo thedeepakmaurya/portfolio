@@ -25,5 +25,81 @@ export const INFO = {
             "img": "https://targetstudy.com/files/img/2/80871/L_75433.gif",
             "marks": "65%"
         }
+    ],
+    "certification": [
+        {
+            "id": "301",
+            "institute": "DUCAT",
+            "qualification": "MERN Stack",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXNw9zDUCZQhISpVSSarxKxRZQ9RV6AV_pw&s",
+        },
+        {
+            "id": "302",
+            "institute": "NamasteyDev",
+            "qualification": "JavaScript",
+            "img": "https://avatars.githubusercontent.com/u/118036704?s=280&v=4",
+        },
+        {
+            "id": "303",
+            "institute": "Udemy",
+            "qualification": "React JS",
+            "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
+        }
+    ],
+    "projects": [
+        {
+            "id": "401",
+            "institute": "DUCAT",
+            "qualification": "MERN Stack",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXNw9zDUCZQhISpVSSarxKxRZQ9RV6AV_pw&s",
+        },
+        {
+            "id": "402",
+            "institute": "NamasteyDev",
+            "qualification": "JavaScript",
+            "img": "https://avatars.githubusercontent.com/u/118036704?s=280&v=4",
+        },
+        {
+            "id": "403",
+            "institute": "Udemy",
+            "qualification": "React JS",
+            "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
+        },
+        {
+            "id": "404",
+            "institute": "Udemy",
+            "qualification": "React JS",
+            "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
+        },
+        {
+            "id": "405",
+            "institute": "Udemy",
+            "qualification": "React JS",
+            "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
+        },
+        {
+            "id": "406",
+            "institute": "Udemy",
+            "qualification": "React JS",
+            "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
+        },
+        {
+            "id": "407",
+            "institute": "Udemy",
+            "qualification": "React JS",
+            "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
+        },
+        {
+            "id": "408",
+            "institute": "Udemy",
+            "qualification": "React JS",
+            "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
+        },
+        {
+            "id": "409",
+            "institute": "Udemy",
+            "qualification": "React JS",
+            "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
+        }
     ]
 }

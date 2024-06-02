@@ -4,7 +4,6 @@ export const INFO = {
             "id": "101",
             "company": "IndiaMart",
             "designation": "Project Executive",
-            "jd": "My duties often span various aspects of project management.",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGroB8d0A4la1WAr9f7wPWZA-c5nnCtG-YkQ&s"
         },
     ],
@@ -87,7 +86,7 @@ export const INFO = {
             "id": "406",
             "name": "VS Code",
             "desc": "IDE",
-            "img": "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+            "img": "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s176-c-k-c0x00ffffff-no-rj",
         }
     ],
     "projects": [

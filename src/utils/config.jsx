@@ -72,22 +72,22 @@ export const INFO = {
         },
         {
             "id": "504",
-            "name": "Quick Quiz",
-            "stack": ["JavaScript" , "HTML", "CSS"],
+            "name": "QuickQuiz",
+            "stack": ["JS" , "HTML", "CSS"],
             "url": "https://github.com/thedeepakmaurya/quizapp",
             "img": "https://img.freepik.com/premium-vector/quiz-comic-pop-art-style_175838-505.jpg",
         },
         {
             "id": "505",
-            "name": "Rock Paper Scissor",
-            "stack": ["JavaScript" , "HTML", "CSS"],
+            "name": "RockPaperScissor",
+            "stack": ["JS" , "HTML", "CSS"],
             "url": "https://github.com/thedeepakmaurya/rockpaperscissor",
             "img": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/68cf1555030205.5974446dcabcc.png",
         },
         {
             "id": "506",
             "name": "Portfolio",
-            "stack": ["JavaSscript" , "HTML", "CSS"],
+            "stack": ["JS" , "HTML", "CSS"],
             "url": "https://github.com/thedeepakmaurya/portfolio",
             "img": "https://media.designrush.com/articles/244453/conversions/how-to-make-a-graphic-design-portfolio-details.jpg",
         }
@@ -97,13 +97,13 @@ export const INFO = {
             "id": "401",
             "name": "HTML",
             "description": "Markup Language",
-            "img": "https://thedeepakmaurya.github.io/portfolio/assets/HTML.png",
+            "img": "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png",
         },
         {
             "id": "402",
             "name": "CSS",
             "description": "Style",
-            "img": "https://thedeepakmaurya.github.io/portfolio/assets/CSS.png",
+            "img": "https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png",
         },
         {
             "id": "403",

@@ -11,8 +11,8 @@ const StackContainer = () => {
     return (
         <div className='mt-14 '>
             <div className='flex items-center justify-between pl-2 pr-2'>
-                <h1 className='text-sm' ><i className='bx bx-laptop align-middle'></i> Tech Stack</h1>
-                <p className='text-xs '><a href='https://linkedin.com/in/thedeepakmaurya'>View all </a><i className='bx bx-link-external align-middle'></i></p>
+                <h1 className='text-sm font-medium' ><i className='bx bx-laptop align-middle'></i> Tech Stack</h1>
+                <p className='text-xs font-medium'><a href='https://linkedin.com/in/thedeepakmaurya'>View all </a><i className='bx bx-link-external align-middle'></i></p>
             </div>
             <div className='mt-5 '>
             <p className='text-sm'>{stackdesc.description}</p>

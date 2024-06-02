@@ -5,7 +5,7 @@ const Education = ({ education }) => {
     const { institute, qualification, marks, img } = education;
 
     return (
-        <div className='w-1/2 flex gap-2 mt-8'>
+        <div className='w-1/2 sm:w-auto flex gap-2 mt-8'>
             <div>
                 <img className='w-[46px] h-[46px] border-white shadow-md shadow-black rounded-lg hover:grayscale' alt='thumbnail-img' src={img} />
             </div>

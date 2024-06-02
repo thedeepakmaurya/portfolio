@@ -3,6 +3,7 @@ import CertificationContainer from "./CertificationContainer";
 import EducationContainer from "./EducationContainer";
 import Footer from "./Footer";
 import Profile from "./Profile";
+import StackContainer from "./StackContainer";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <CareerContainer/>
         <EducationContainer/>
         <CertificationContainer/>
+        <StackContainer/>
         <Footer/>
     </div>
   );

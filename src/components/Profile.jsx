@@ -4,7 +4,7 @@ import userContext from '../utils/userContext'
 
 const Profile = () => {
 
-    const { profile } = useContext(userContext);
+    const { profile }  = useContext(userContext); 
 
     return (
         <>

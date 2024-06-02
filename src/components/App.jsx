@@ -13,7 +13,7 @@ import { info } from "../utils/userContext";
 function App() {
   return (
     <userContext.Provider value={info}>
-      <div className=" sm:ml-5 sm:mr-5 sm:mt-10 sm:mb-10 md:ml-20 md:mr-20 md:mt-10 md:mb-10 lg:ml-40 lg:mr-40 lg:mt-10 lg:mb-10 xl:ml-96 xl:mr-96 xl:mt-10 xl:mb-10 2xl:ml-[500px] 2xl:mr-[500px] 2xl:mt-10 2xl:mb-10">
+      <div className=" sm:ml-5 sm:mr-5 sm:mt-10 sm:mb-10 md:ml-20 md:mr-20 md:mt-10 md:mb-10 lg:ml-40 lg:mr-40 lg:mt-10 lg:mb-10 xl:ml-96 xl:mr-96 xl:mt-10 xl:mb-10 2xl:ml-[600px] 2xl:mr-[600px] 2xl:mt-10 2xl:mb-10">
         <Profile />
         <StackContainer />
         <ProjectContainer />

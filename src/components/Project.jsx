@@ -2,7 +2,7 @@ import React from 'react'
 
 const Project = ({ project }) => {
 
-    const { name, stack, url, img } = project;
+    const { name, description, stack, url, img } = project;
 
     return (
         <div className='w-1/2 flex gap-2 mt-8'>
@@ -12,6 +12,7 @@ const Project = ({ project }) => {
             <div className=''>
                 <h1 className='text-md font-medium'>{name}</h1>
                 <p className='text-sm pb-1'>{stack.join(', ')}</p>
+                <p className='text-sm pb-1'>{description}</p>
             </div>
         </div>
     )

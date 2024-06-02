@@ -30,7 +30,7 @@ export const INFO = {
             "id": "301",
             "institute": "DUCAT",
             "qualification": "MERN Stack",
-            "url": "https://namastedev.com/mauryadeepak135/certificates/namaste-javascript",
+            "url": "https://www.ducatindia.com/verify-certificate",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXNw9zDUCZQhISpVSSarxKxRZQ9RV6AV_pw&s",
         },
         {
@@ -44,7 +44,7 @@ export const INFO = {
             "id": "303",
             "institute": "Udemy",
             "qualification": "React JS",
-            "url": "https://namastedev.com/mauryadeepak135/certificates/namaste-javascript",
+            "url": "https://www.udemy.com/certificate/UC-f348593d-68fc-41d2-9636-5c806f4bdf52/",
             "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
         }
     ],

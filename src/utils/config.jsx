@@ -35,7 +35,7 @@ export const INFO = {
         },
         {
             "id": "302",
-            "institute": "NamasteyDev",
+            "institute": "NamasteDev",
             "qualification": "JavaScript",
             "url": "https://namastedev.com/mauryadeepak135/certificates/namaste-javascript",
             "img": "https://avatars.githubusercontent.com/u/118036704?s=280&v=4",

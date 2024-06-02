@@ -86,7 +86,7 @@ export const INFO = {
         {
             "id": "406",
             "name": "VS Code",
-            "desc": "Integrated Development Environment",
+            "desc": "IDE",
             "img": "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
         }
     ],

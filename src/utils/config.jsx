@@ -87,8 +87,8 @@ export const INFO = {
         {
             "id": "506",
             "name": "Portfolio",
-            "stack": ["JS" , "HTML", "CSS"],
-            "url": "https://github.com/thedeepakmaurya/portfolio",
+            "stack": ["React JS", "Tailwind"],
+            "url": "https://github.com/thedeepakmaurya/portfolio-minimal",
             "img": "https://media.designrush.com/articles/244453/conversions/how-to-make-a-graphic-design-portfolio-details.jpg",
         }
     ],

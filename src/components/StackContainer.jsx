@@ -9,7 +9,7 @@ const StackContainer = () => {
     const { stackdesc } = useContext(userContext)
 
     return (
-        <div className='mt-8 w-[43%]'>
+        <div className='mt-8 sm:w-[90%] w-[43%]'>
             <div className='flex items-center justify-between pl-2 pr-2'>
                 <h1 className='text-sm font-medium' ><i className='bx bx-laptop align-middle'></i> Tech Stack</h1>
                 <p className='text-xs font-medium underline decoration-dotted'><a href='https://linkedin.com/in/thedeepakmaurya'>View all </a></p>

@@ -4,8 +4,6 @@ const Stack = ({ stack }) => {
 
     const {  description, name, img } = stack;
 
-    console.log(stack)
-
     return (
         <div className='w-1/2 flex gap-2 mt-8'>
             <div>

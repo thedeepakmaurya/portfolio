@@ -77,10 +77,10 @@ export const INFO = {
         },
         {
             "id": "505",
-            "name": "RockPaperScissor",
-            "stack": ["JS" , "HTML", "CSS"],
-            "url": "https://github.com/thedeepakmaurya/rockpaperscissor",
-            "img": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/68cf1555030205.5974446dcabcc.png",
+            "name": "ProjectForm",
+            "stack": ["React JS" , "Tailwind"],
+            "url": "https://github.com/thedeepakmaurya/multiform",
+            "img": "https://media.licdn.com/dms/image/C4E12AQEDHtUmDLS3yQ/article-cover_image-shrink_720_1280/0/1520046874940?e=1723680000&v=beta&t=WTEqkHSqnEOgoe78G-XSlS3eMGbJ3bzXfssAskYEHdc",
         },
         {
             "id": "506",

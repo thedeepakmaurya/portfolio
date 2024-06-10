@@ -5,8 +5,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <div className='mt-16 mb-5 sm:w-[90%] md:w-[70%] w-[43%]'>
-      <p className='text-sm pb-10'>You can view the older version of this website <a className='text-blue-500' href='https://thedeepakmaurya.github.io/portfolio/ ' target='blank'>here</a>.</p>
+    <div className='mt-16 sm:w-[90%] md:w-[70%] w-[43%]'>
       <p className='text-sm'>&copy; {currentYear} <a className='font-bold' href="/">Deepak Maurya</a> - All rights reserved</p>
     </div>
   )

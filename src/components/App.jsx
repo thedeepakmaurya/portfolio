@@ -7,6 +7,7 @@ import ProjectContainer from "./ProjectContainer";
 import StackContainer from "./StackContainer";
 import userContext from "../utils/userContext";
 import { info } from "../utils/userContext";
+import InternContainer from "./InternContainer";
 
 
 
@@ -19,6 +20,7 @@ function App() {
         <ProjectContainer />
         <CertificationContainer />
         <EducationContainer />
+        <InternContainer/>
         <CareerContainer />
         <Footer />
       </div>

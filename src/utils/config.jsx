@@ -142,4 +142,12 @@ export const INFO = {
             "img": "https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png",
         }
     ],
+    "interns": [
+        {
+            "id": "601",
+            "company": "Unified Mentor",
+            "designation": "Frontend Developer",
+            "img": "https://qph.cf2.quoracdn.net/main-thumb-872478121-200-qahafqashinbuhkhswdijobauybssgvh.jpeg"
+        },
+    ],
 }

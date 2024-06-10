@@ -14,7 +14,6 @@ export const INFO = {
             "qualification": "BSC",
             "subject": ["Physics", "Chemistry", "Mathematics"],
             "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Guru_Nanak_Dev_University_Logo.png",
-            "marks": "65%"
         },
         {
             "id": "202",
@@ -22,7 +21,6 @@ export const INFO = {
             "qualification": "12th",
             "subject": ["Physics", "Chemistry", "Mathematics"],
             "img": "https://targetstudy.com/files/img/2/80871/L_75433.gif",
-            "marks": "65%"
         }
     ],
     "certification": [

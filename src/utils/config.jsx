@@ -46,50 +46,6 @@ export const INFO = {
             "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
         }
     ],
-    "projects": [
-        {
-            "id": "501",
-            "name": "VideoTube",
-            "stack": ["React JS" , "Tailwind"],
-            "url": "https://github.com/thedeepakmaurya/videotube",
-            "img": "https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg",
-        },
-        {
-            "id": "502",
-            "name": "FoodVilla",
-            "stack": ["React JS" , "Tailwind"],
-            "url": "https://github.com/thedeepakmaurya/foodvilla",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgllNfhDh9A7DydEH0kdM2OiHP6OK7Es29mA&s",
-        },
-        {
-            "id": "503",
-            "name": "JokeBox",
-            "stack": ["React JS" , "Tailwind"],
-            "url": "https://github.com/thedeepakmaurya/jokebox",
-            "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30164225/572.png",
-        },
-        {
-            "id": "504",
-            "name": "QuickQuiz",
-            "stack": ["JS" , "HTML", "CSS"],
-            "url": "https://github.com/thedeepakmaurya/quizapp",
-            "img": "https://img.freepik.com/premium-vector/quiz-comic-pop-art-style_175838-505.jpg",
-        },
-        {
-            "id": "505",
-            "name": "ProjectForm",
-            "stack": ["React JS" , "Tailwind"],
-            "url": "https://github.com/thedeepakmaurya/multiform",
-            "img": "https://media.licdn.com/dms/image/C4E12AQEDHtUmDLS3yQ/article-cover_image-shrink_720_1280/0/1520046874940?e=1723680000&v=beta&t=WTEqkHSqnEOgoe78G-XSlS3eMGbJ3bzXfssAskYEHdc",
-        },
-        {
-            "id": "506",
-            "name": "Portfolio",
-            "stack": ["React JS", "Tailwind"],
-            "url": "https://github.com/thedeepakmaurya/portfolio-minimal",
-            "img": "https://media.designrush.com/articles/244453/conversions/how-to-make-a-graphic-design-portfolio-details.jpg",
-        }
-    ],
     "stack": [
         {
             "id": "401",
@@ -138,6 +94,56 @@ export const INFO = {
             "name": "Jest",
             "description": "Testing Library",
             "img": "https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png",
+        },
+        {
+            "id": "409",
+            "name": "Firebase",
+            "description": "Database",
+            "img": "https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png",
+        }
+    ],
+    "projects": [
+        {
+            "id": "501",
+            "name": "VideoTube",
+            "stack": ["React JS" , "Tailwind"],
+            "url": "https://github.com/thedeepakmaurya/videotube",
+            "img": "https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg",
+        },
+        {
+            "id": "502",
+            "name": "FoodVilla",
+            "stack": ["React JS" , "Tailwind"],
+            "url": "https://github.com/thedeepakmaurya/foodvilla",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgllNfhDh9A7DydEH0kdM2OiHP6OK7Es29mA&s",
+        },
+        {
+            "id": "503",
+            "name": "JokeBox",
+            "stack": ["React JS" , "Tailwind"],
+            "url": "https://github.com/thedeepakmaurya/jokebox",
+            "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30164225/572.png",
+        },
+        {
+            "id": "504",
+            "name": "QuickQuiz",
+            "stack": ["JS" , "HTML", "CSS"],
+            "url": "https://github.com/thedeepakmaurya/quizapp",
+            "img": "https://img.freepik.com/premium-vector/quiz-comic-pop-art-style_175838-505.jpg",
+        },
+        {
+            "id": "505",
+            "name": "ProjectForm",
+            "stack": ["React JS" , "Tailwind"],
+            "url": "https://github.com/thedeepakmaurya/multiform",
+            "img": "https://media.licdn.com/dms/image/C4E12AQEDHtUmDLS3yQ/article-cover_image-shrink_720_1280/0/1520046874940?e=1723680000&v=beta&t=WTEqkHSqnEOgoe78G-XSlS3eMGbJ3bzXfssAskYEHdc",
+        },
+        {
+            "id": "506",
+            "name": "Portfolio",
+            "stack": ["React JS", "Tailwind"],
+            "url": "https://github.com/thedeepakmaurya/portfolio-minimal",
+            "img": "https://media.designrush.com/articles/244453/conversions/how-to-make-a-graphic-design-portfolio-details.jpg",
         }
     ],
     "interns": [

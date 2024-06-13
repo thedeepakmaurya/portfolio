@@ -150,7 +150,7 @@ export const INFO = {
         {
             "id": "601",
             "company": "Unified Mentor",
-            "designation": "Frontend Developer",
+            "designation": "Web Developer",
             "img": "https://qph.cf2.quoracdn.net/main-thumb-872478121-200-qahafqashinbuhkhswdijobauybssgvh.jpeg"
         },
     ],

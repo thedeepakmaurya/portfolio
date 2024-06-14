@@ -3,7 +3,7 @@ import { createContext } from "react";
 export const info = {
     profile: {
         name: 'Deepak Maurya',
-        summary: 'React JS enthusiast with a sharp attention to detail and a passion for developing smooth web applications. As an Intern at Unified Mentor, I am currently working on two key projects: the Student-Teacher Booking Appointment system and the Catering Reservation and Ordering System.',
+        summary: 'React JS enthusiast with a sharp attention to detail and a passion for developing smooth web applications. Web Developer at Unified Mentor.',
     },
     careerdesc: {
         description: 'As a Project Delivery Executive played a pivotal role in overseeing and ensuring the successful delivery of projects. ',

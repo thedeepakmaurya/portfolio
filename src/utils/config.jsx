@@ -63,7 +63,7 @@ export const INFO = {
             "id": "403",
             "name": "JavaScript",
             "description": "Programming Language",
-            "img": "https://thedeepakmaurya.github.io/portfolio/assets/Javascript.svg",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
         },
         {
             "id": "404",
@@ -75,7 +75,7 @@ export const INFO = {
             "id": "405",
             "name": "Tailwind",
             "description": "CSS Framework",
-            "img": "https://thedeepakmaurya.github.io/portfolio/assets/Tailwind.png",
+            "img": "https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp",
         },
         {
             "id": "406",

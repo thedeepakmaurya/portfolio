@@ -105,24 +105,24 @@ export const INFO = {
     "projects": [
         {
             "id": "501",
+            "name": "EduMentor",
+            "stack": ["React JS" , "Firebase"],
+            "url": "https://github.com/thedeepakmaurya/edumentor",
+            "img": "https://raw.githubusercontent.com/thedeepakmaurya/edumentor/master/public/apple-icon.png",
+        },
+        {
+            "id": "502",
             "name": "VideoTube",
             "stack": ["React JS" , "Tailwind"],
             "url": "https://github.com/thedeepakmaurya/videotube",
             "img": "https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg",
         },
         {
-            "id": "502",
+            "id": "503",
             "name": "FoodVilla",
             "stack": ["React JS" , "Tailwind"],
             "url": "https://github.com/thedeepakmaurya/foodvilla",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgllNfhDh9A7DydEH0kdM2OiHP6OK7Es29mA&s",
-        },
-        {
-            "id": "503",
-            "name": "JokeBox",
-            "stack": ["React JS" , "Tailwind"],
-            "url": "https://github.com/thedeepakmaurya/jokebox",
-            "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30164225/572.png",
         },
         {
             "id": "504",

@@ -90,12 +90,6 @@ export const INFO = {
             "img": "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s176-c-k-c0x00ffffff-no-rj",
         },
         {
-            "id": "408",
-            "name": "Jest",
-            "description": "Testing Library",
-            "img": "https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png",
-        },
-        {
             "id": "409",
             "name": "Firebase",
             "description": "Database",

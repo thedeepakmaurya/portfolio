@@ -120,10 +120,10 @@ export const INFO = {
         },
         {
             "id": "504",
-            "name": "QuickQuiz",
-            "stack": ["JS" , "HTML", "CSS"],
-            "url": "https://github.com/thedeepakmaurya/quizapp",
-            "img": "https://img.freepik.com/premium-vector/quiz-comic-pop-art-style_175838-505.jpg",
+            "name": "BlinkEat",
+            "stack": ["React JS" , "Firebase"],
+            "url": "https://github.com/thedeepakmaurya/blinkeat",
+            "img": "https://raw.githubusercontent.com/thedeepakmaurya/blinkeat/master/public/apple-touch-icon.png",
         },
         {
             "id": "505",

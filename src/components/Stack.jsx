@@ -5,7 +5,7 @@ const Stack = ({ stack }) => {
     const {  description, name, img } = stack;
 
     return (
-        <div className='w-1/2 flex mt-8'>
+        <div className='w-1/2 flex mt-8 gap-2 sm:gap-0'>
             <div className='w-1/6 sm:w-1/3'>
                 <img className='w-[46px] h-[46px] border-white shadow-md shadow-black rounded-lg hover:grayscale' alt='thumbnail-img' src={img} />
             </div>

@@ -68,23 +68,29 @@ export const INFO = {
         {
             "id": "404",
             "name": "React JS",
-            "description": "Framework",
+            "description": "Library",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoW3g9hjXIasgon-kpzz-lD9z4SsalyPbZA&s",
         },
         {
             "id": "405",
+            "name": "Next JS",
+            "description": "Framework",
+            "img": "https://cdn.worldvectorlogo.com/logos/next-js.svg",
+        },
+        {
+            "id": "406",
             "name": "Tailwind",
             "description": "CSS Framework",
             "img": "https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp",
         },
         {
-            "id": "406",
+            "id": "407",
             "name": "Git & GitHub",
             "description": "Version Control",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png",
         },
         {
-            "id": "407",
+            "id": "408",
             "name": "VS Code",
             "description": "IDE",
             "img": "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s176-c-k-c0x00ffffff-no-rj",

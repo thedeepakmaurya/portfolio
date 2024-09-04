@@ -136,7 +136,7 @@ export const INFO = {
             "name": "ProjectForm",
             "stack": ["React JS" , "Tailwind"],
             "url": "https://github.com/thedeepakmaurya/multiform",
-            "img": "https://media.licdn.com/dms/image/C4E12AQEDHtUmDLS3yQ/article-cover_image-shrink_720_1280/0/1520046874940?e=1723680000&v=beta&t=WTEqkHSqnEOgoe78G-XSlS3eMGbJ3bzXfssAskYEHdc",
+            "img": "https://media.istockphoto.com/id/1253257209/vector/project-management-vector-icon-symbol-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=3OaginNNd27pYFaszPUsHBE2HnfFRmluNkUdDXlZ4F0=",
         },
         {
             "id": "506",

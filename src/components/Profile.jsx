@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import logo from '../assets/img/profile.jpg'
+import logo from '../assets/img/user.png'
 import userContext from '../utils/userContext'
 import resume from '../assets/doc/resume.pdf'
 

@@ -85,18 +85,24 @@ export const INFO = {
         },
         {
             "id": "407",
+            "name": "Bootstrap",
+            "description": "CSS Framework",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+        },
+        {
+            "id": "408",
             "name": "Git & GitHub",
             "description": "Version Control",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png",
         },
         {
-            "id": "408",
+            "id": "409",
             "name": "VS Code",
             "description": "IDE",
             "img": "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s176-c-k-c0x00ffffff-no-rj",
         },
         {
-            "id": "409",
+            "id": "410",
             "name": "Firebase",
             "description": "Database",
             "img": "https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png",

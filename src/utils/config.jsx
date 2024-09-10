@@ -43,7 +43,7 @@ export const INFO = {
             "institute": "Udemy",
             "qualification": "React JS",
             "url": "https://www.udemy.com/certificate/UC-f348593d-68fc-41d2-9636-5c806f4bdf52/",
-            "img": "https://dqoorh8my9q2m.cloudfront.net/static/3.124.5-ECS/images/base/corpu-icon-512.png",
+            "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/82/c3/3682c355-a129-0b6f-3f80-cec5ba55c87f/MainApp-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/246x0w.webp",
         }
     ],
     "stack": [
@@ -75,7 +75,7 @@ export const INFO = {
             "id": "405",
             "name": "Next JS",
             "description": "Framework",
-            "img": "https://cdn.worldvectorlogo.com/logos/next-js.svg",
+            "img": "https://logidots.com/wp-content/uploads/2021/09/download-2.png",
         },
         {
             "id": "406",
@@ -93,7 +93,7 @@ export const INFO = {
             "id": "408",
             "name": "Git & GitHub",
             "description": "Version Control",
-            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png",
+            "img": "https://ikennaezef.github.io/github-user-search/static/media/githubcat.47491175.jpg",
         },
         {
             "id": "409",

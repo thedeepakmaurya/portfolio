@@ -12,15 +12,17 @@ import InternContainer from "./InternContainer";
 function App() {
   return (
     <UserProvider>
-      <div className="flex flex-col items-center justify-center mt-10 mb-10">
-        <Profile />
-        <StackContainer />
-        <ProjectContainer />
-        <CertificationContainer />
-        <EducationContainer />
-        <InternContainer />
-        <CareerContainer />
-        <Footer />
+      <div className="flex flex-col items-center justify-center ">
+        <div className="w-[42%] sm:w-[90%] md:w-[60%] xl:w-[40%] py-10">
+          <Profile />
+          <StackContainer />
+          <ProjectContainer />
+          <CertificationContainer />
+          <EducationContainer />
+          <InternContainer />
+          <CareerContainer />
+          <Footer />
+        </div>
       </div>
     </UserProvider>
   );

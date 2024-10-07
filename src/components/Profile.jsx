@@ -8,7 +8,7 @@ const Profile = () => {
     const { profile }  = useContext(userContext); 
 
     return (
-        <div className='flex sm:w-[90%] md:w-[70%] w-[43%] gap-5'>
+        <div className='flex w-full  gap-5'>
             <div className='w-[12%] sm:w-1/5'>
                 <img className='w-20 rounded-full border-2 border-white shadow-black shadow-md' alt='profile-img' src={logo} />
             </div>

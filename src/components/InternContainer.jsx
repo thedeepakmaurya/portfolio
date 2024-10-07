@@ -8,8 +8,8 @@ const InternContainer = () => {
     return (
         <div className='py-6 w-full'>
             <div className='flex items-center justify-between pl-2 pr-2'>
-                <h1 className='text-sm font-medium' ><i className='bx bxs-graduation align-middle'></i> Internship</h1>
-                <p className='font-medium text-xs underline decoration-dotted'><a href='https://linkedin.com/in/thedeepakmaurya'>View all </a></p>
+                <h1 className='text-md font-medium' ><i className='bx bxs-graduation align-middle'></i> Internship</h1>
+                <p className='font-medium text-sm underline decoration-dotted'><a href='https://linkedin.com/in/thedeepakmaurya'>View all </a></p>
                 </div>
             <div className='flex flex-wrap '>
                 {

@@ -17,7 +17,7 @@ export const INFO = {
         },
         {
             "id": "202",
-            "institute": "Sh. Parvati Jain Co. Edu. School",
+            "institute": "Sh. Parvati Jain Co. School",
             "qualification": "12th",
             "subject": ["Physics", "Chemistry", "Mathematics"],
             "img": "https://targetstudy.com/files/img/2/80871/L_75433.gif",

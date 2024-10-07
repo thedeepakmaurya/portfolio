@@ -10,8 +10,8 @@ const Career = ({ career }) => {
                 <img className='w-[46px] h-[46px] border-white shadow-md shadow-black rounded-lg hover:grayscale' alt='thumbnail-img' src={img} />
             </div>
             <div className='w-5/6 sm:w-2/3'>
-                <h1 className='text-md font-medium'>{company}</h1>
-                <p className='text-sm'>{designation}</p>
+                <h1 className='text-lg font-medium'>{company}</h1>
+                <p className='text-md'>{designation}</p>
             </div>
         </div>
     )

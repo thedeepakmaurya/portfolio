@@ -10,8 +10,8 @@ const Education = ({ education }) => {
                 <img className='w-[46px] h-[46px] border-white shadow-md shadow-black rounded-lg hover:grayscale' alt='thumbnail-img' src={img} />
             </div>
             <div className='w-5/6'>
-                <h1 className='text-md font-medium'>{institute}</h1>
-                <p className='text-sm pb-1'>{qualification}</p>
+                <h1 className='text-lg font-medium text-inherit'>{institute}</h1>
+                <p className='text-md pb-1'>{qualification}</p>
             </div>
         </div>
     )

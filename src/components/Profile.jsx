@@ -10,7 +10,7 @@ const Profile = () => {
     return (
         <div className='flex w-full  gap-5'>
             <div className='w-[12%] sm:w-1/5'>
-                <img className='w-20 rounded-full border-2 border-white shadow-black shadow-md' alt='profile-img' src={logo} />
+                <img className='w-20 rounded-full border-2 border-black shadow-black shadow-md' alt='profile-img' src={logo} />
             </div>
             <div className='w-[88%] sm:w-4/5'>
                 <a href='/'><h1 className='font-bold text-md'>{profile.name}</h1></a>

@@ -13,7 +13,7 @@ function App() {
   return (
     <UserProvider>
       <div className="flex flex-col items-center justify-center ">
-        <div className="w-[42%] sm:w-[90%] md:w-[60%] xl:w-[35%] py-10">
+        <div className="w-[42%] sm:w-[90%] md:w-[60%] xl:w-[30%] py-10">
           <Profile />
           <StackContainer />
           <ProjectContainer />

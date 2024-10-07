@@ -8,7 +8,7 @@ export const UserProvider = ({ children }) => {
     const info = {
         profile: {
             name: 'Deepak Maurya',
-            summary: 'React JS enthusiast with a sharp attention to detail and a passion for developing smooth web applications. Web Developer at Unified Mentor.',
+            summary: 'Passionate React.js developer crafting dynamic user experiences with seamless performance. I thrive on turning complex problems into elegant, intuitive solutions.',
         },
         careerdesc: {
             description: 'As a Project Delivery Executive played a pivotal role in overseeing and ensuring the successful delivery of projects. ',

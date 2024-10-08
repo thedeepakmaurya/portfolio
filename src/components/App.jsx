@@ -12,7 +12,7 @@ import InternContainer from "./InternContainer";
 function App() {
   return (
     <UserProvider>
-      <div className="flex flex-col items-center justify-center bg-gradient-to-r from-teal-400 to-gray-800">
+      <div className="flex flex-col items-center justify-center bg-gradient-to-r from-blue-200 to-green-200">
         <div className="sm:w-[90%] md:w-[60%] xl:w-[42%] xxl:w-[35%] py-10">
           <Profile />
           <StackContainer />

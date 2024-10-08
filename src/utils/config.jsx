@@ -11,7 +11,7 @@ export const INFO = {
         {
             "id": "201",
             "institute": "Guru Nanak Dev University",
-            "qualification": "BSC",
+            "qualification": "BSc",
             "subject": ["Physics", "Chemistry", "Mathematics"],
             "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Guru_Nanak_Dev_University_Logo.png",
         },

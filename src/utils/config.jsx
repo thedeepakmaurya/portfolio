@@ -2,6 +2,18 @@ export const INFO = {
     "career": [
         {
             "id": "101",
+            "company": "SG Web App Techniques",
+            "designation": "Web Developer",
+            "img": "https://media.licdn.com/dms/image/v2/D560BAQFvgOtSMLQ69Q/company-logo_200_200/company-logo_200_200/0/1726573906888/sg_webapp_techniques_private_limited_logo?e=1736985600&v=beta&t=cWVuPSN9TqXETOQmEUpFVG4Fhki82a27iptGz8z8Hao"
+        },
+        {
+            "id": "102",
+            "company": "Unified Mentor",
+            "designation": "Web Developer",
+            "img": "https://qph.cf2.quoracdn.net/main-thumb-872478121-200-qahafqashinbuhkhswdijobauybssgvh.jpeg"
+        },
+        {
+            "id": "103",
             "company": "IndiaMart",
             "designation": "Project Executive",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGroB8d0A4la1WAr9f7wPWZA-c5nnCtG-YkQ&s"
@@ -151,13 +163,5 @@ export const INFO = {
             "url": "https://github.com/thedeepakmaurya/portfolio-minimal",
             "img": "https://media.designrush.com/articles/244453/conversions/how-to-make-a-graphic-design-portfolio-details.jpg",
         }
-    ],
-    "interns": [
-        {
-            "id": "601",
-            "company": "Unified Mentor",
-            "designation": "Web Developer",
-            "img": "https://qph.cf2.quoracdn.net/main-thumb-872478121-200-qahafqashinbuhkhswdijobauybssgvh.jpeg"
-        },
     ],
 }
